@@ -30,7 +30,7 @@ python scraper.py
 
 This example scrapes a JSON API response containing a list of organizations from the provided URL. It then extracts the email addresses from each organization's webpage and prints them to the console.
 
-##License
+## License
 
 This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
 
