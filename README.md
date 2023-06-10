@@ -21,7 +21,7 @@ pip install requests beautifulsoup4
 3. Open the script file and replace the `url` variable with the URL of the webpage you want to scrape.
 
 ```python
-python scraper.py
+python webPull.py
 ```
 
 4. Run the script using the following command:
